@@ -34,14 +34,13 @@
 
 <!-- cloud -->
 <code><img height="25" src="https://img.shields.io/badge/-%E3%80%8CCloud Platform%E3%80%8D-f38020?logo=cloud&style=for-the-badge&logoColor=yellow"></code>
-
-- <code><img height="25" src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png" alt="aws"></code>
+<code><img height="25" src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png" alt="aws"></code>
 <code><img height="25" src="https://img.stackshare.io/service/1908/amazon-ecs.png" alt="ecs"></code>
 <code><img height="25" src="https://www.azavea.com/wp-content/uploads/2016/06/AWS_Simple_Icons_Compute_AWSLambda.svg_.png" alt="lambda"></code>
 <code><img height="25" src="https://img.stackshare.io/service/3299/aws-api-gateway.png" alt="apig"></code>
 <code><img height="25" src="https://img.stackshare.io/service/401/amazon-cloudwatch.png" alt="cloudwatch"></code>
 <code><img height="25" src="https://img.stackshare.io/service/18/amazon-ec2.png" alt="ec2"></code>
-- <code><img height="25" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/cloud_icon_256.png" alt="gcp"></code>
+| <code><img height="25" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/cloud_icon_256.png" alt="gcp"></code>
 <code><img height="25" src="https://img1.pnghut.com/10/22/10/N6e1iaCmvj/google-cloud-platform-container-linux-by-coreos-infrastructure-as-a-service-amazon-elastic-compute.jpg" alt="gce"></code>
 
 
