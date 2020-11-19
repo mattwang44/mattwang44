@@ -9,7 +9,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mattwang44o@gmail.com)
 
 
-- 👯 I’m a backend engineer at [Umbo Computer Vision](https://umbocv.ai/) focusing on the development of realtime human detection pipeline.
+- 👯 I’m a backend engineer at [Umbo Computer Vision](https://umbocv.ai/) focusing on the development of realtime human detection service.
 - 🔭 I'm currently a volunteer web developer of [PyCon TW](https://tw.pycon.org/2020/en-us/) (see the repo [here](https://github.com/anuraghazra/github-readme-stats)!).
 - 🤔 I'm currently learning full stack development and cloud operations.
 - 🌱 I was born and raised in Kaohisung, Taiwan.
