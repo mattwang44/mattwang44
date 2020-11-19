@@ -21,7 +21,7 @@
 <code><img height="25" src="https://img.shields.io/badge/-%E3%80%8Cpython%E3%80%8D-013243?logo=python&style=for-the-badge&logoColor=yellow"></code>
 <code><img height="25" src="https://img.stackshare.io/service/994/4aGjtNQv.png" alt="django"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" alt="flask"></code>
-<code><code><img height="25" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy"></code>
+<code><img height="25" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" alt="PyQt5"></code>
 
 
