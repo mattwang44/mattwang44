@@ -64,7 +64,6 @@
 
 <!-- other -->
 <code><img height="25" src="https://img.shields.io/badge/-%E3%80%8COther%E3%80%8D-9933CC?logo=db&style=for-the-badge&logoColor=yellow"></code>
-<code><img height="25" src="https://img.stackshare.io/service/1052/YMxUfyWf.png" alt="nginx"></code>
 <code><img height="25" src="https://img.stackshare.io/service/1046/git.png" alt="git"></code>
 
 
@@ -86,3 +85,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<iframe src="https://www.gettoby.com/e/z1cwr2w0nl90" width="690" height="350" frameBorder="0">Collection: Jul 17 at 10:55 (7 tabs)<a href="https://www.gettoby.com/p/z1cwr2w0nl90" target="_blank"></a></iframe>
