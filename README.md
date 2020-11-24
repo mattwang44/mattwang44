@@ -6,7 +6,7 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100000194291071)
 [![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/mattwang44)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-fe7a16?style=flat&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/7969188)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mattwang44o@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mattwang44@gmail.com)
 
 
 - 👯 I’m a backend engineer at [Umbo Computer Vision](https://umbocv.ai/) focusing on the development of realtime human detection service.
