@@ -35,7 +35,7 @@ I’m a backend engineer at [Umbo Computer Vision](https://umbocv.ai/) focusing 
 
 #### Cloud Platform
 
-[<img src="https://img.shields.io/badge/AWS-282C34?logo=amazonaws" alt="AWS logo" title="AWS" height="25" />](https://aws.amazon.com)
+[<img src="https://img.shields.io/badge/AWS-282C34?logo=amazonaws&logoColor=FF9900" alt="AWS logo" title="AWS" height="25" />](https://aws.amazon.com)
 [<img src="https://img.shields.io/badge/GCP-282C34?logo=googlecloud" alt="GCP logo" title="GCP" height="25" />](https://cloud.google.com)
 
 #### DevOps
@@ -58,6 +58,13 @@ Uncomment this part after I know more about k8s
 [<img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes" alt="Kubernetes logo" title="Kubernetes" height="25" />](https://kubernetes.io)
 [<img src="https://img.shields.io/badge/Helm-282C34?logo=helm" alt="Helm logo" title="Helm" height="25" />](https://helm.sh) -->
 
+### Certificates & Courses
+
+[<img src="https://img.shields.io/badge/GCP ACE-282C34?logo=googlecloud" alt="GCP logo" title="GCP" height="25" />](https://www.credential.net/6ed46944-6ab9-4f87-b19e-eea0d4a5517b?key=6f4f5f74408e1291fc997d8842f33f144a89ec669e204a3567c18d4566a4a0bb)
+
+
+[<img src="https://img.shields.io/badge/Coursera Profile-282C34?logo=coursera&logoColor=0056D2" alt="coursera logo" title="coursera" height="25" />](https://www.coursera.org/user/5331a36f88fb6ebc545872905561db74)
+[<img src="https://img.shields.io/badge/Qwiklabs Profile-282C34?logo=qwiklabs" alt="Qwiklabs logo" title="Qwiklabs" height="25" />](https://www.coursera.org/user/5331a36f88fb6ebc545872905561db74)
 
 
 ### Stats
