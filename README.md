@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mattwang44@gmail.com)
 <!-- [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-fe7a16?style=flat&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/7969188) -->
 
-I’m a backend engineer at [Umbo Computer Vision](https://umbocv.ai/) focusing on the development of realtime human/vehicle detection service. I'm also a volunteering web developer in PyCon TW and currently leading a team establishing [the website of 2021 conference](https://tw.pycon.org/2021/en-us/) in Django & Vue.js. Before joining Umbo, I was studying in the department of Mechanical Engineering in [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), where I received both of B.S. & M.S. degrees.
+I’m a backend engineer at [Umbo Computer Vision](https://umbocv.ai/) focusing on the development of realtime human/vehicle detection service. I'm also a volunteering web developer in PyCon TW and currently leading a team establishing [the website of 2021 conference](https://tw.pycon.org/2021/en-us/) in Django & Nuxt.js. Before joining Umbo, I was studying in the department of Mechanical Engineering in [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), where I received both of B.S. & M.S. degrees.
 
 ### Tech Stack
 
