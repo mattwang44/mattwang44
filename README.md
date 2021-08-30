@@ -1,7 +1,7 @@
 ## Hi, I'm 王威翔 Wei-Hsiang (Matt) Wang
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=white)](https://github.com/mattwang44)
-[![Github page](https://img.shields.io/badge/-Website-ff4088?style=flat&logo=hugo&logoColor=white)](https://mattwang44.github.io)
+[![Github page](https://img.shields.io/badge/-Website-ff4088?style=flat&logo=hugo&logoColor=white)](https://mattwang44.dev)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wei-hsiang-wang-60841b108/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100000194291071)
 [![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/mattwang44)
