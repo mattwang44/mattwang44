@@ -8,7 +8,12 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mattwang44@gmail.com)
 <!-- [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-fe7a16?style=flat&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/7969188) -->
 
-I’m a backend engineer at [Umbo Computer Vision](https://umbocv.ai/), focusing on developing a real-time human/vehicle detection system. I'm also a volunteering web developer in PyCon TW and currently leading a team establishing [the website of the 2021 conference](https://tw.pycon.org/2021/en-us/) in Django & Nuxt.js. Before joining Umbo, I got my B.S. & M.S. degrees in Mechanical Engineering from [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/).
+
+- I'm a backend engineer at [GoFreight](https://www.gofreight.com/), a startup focusing on providing web-based SaaS for international freight forwarders.
+- I'm also volunteering in Taiwanese Python community:
+  - Web developer at [PyCon TW](https://tw.pycon.org/).
+  - Coordinator and translator at [Python Document Translation Project (zh_TW)](https://github.com/python/python-docs-zh-tw).
+- I got my B.S. & M.S. degrees in M.E. from [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/).
 
 ### Tech Stack
 
