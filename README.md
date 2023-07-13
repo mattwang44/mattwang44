@@ -10,12 +10,13 @@
 
 
 - I'm a backend engineer at [GoFreight](https://www.gofreight.com/), a startup focusing on providing web-based SaaS for international freight forwarders.
-- I'm also volunteering in Taiwanese Python community:
+- I'm also a volunteer in the Taiwanese Python community:
   - Web developer at [PyCon TW](https://tw.pycon.org/).
   - Coordinator and translator at [Python Document Translation Project (zh_TW)](https://github.com/python/python-docs-zh-tw).
-- I got my B.S. & M.S. degrees in M.E. from [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/).
 
-### Tech Stack
+
+
+<details><summary>Skill set</summary>
 
 #### Languages & Frameworks
 
@@ -71,7 +72,4 @@ Uncomment this part after I know more about k8s
 [<img src="https://img.shields.io/badge/Coursera Profile-282C34?logo=coursera&logoColor=0056D2" alt="coursera logo" title="coursera" height="25" />](https://www.coursera.org/user/5331a36f88fb6ebc545872905561db74)
 [<img src="https://img.shields.io/badge/Qwiklabs Profile-282C34?logo=qwiklabs" alt="Qwiklabs logo" title="Qwiklabs" height="25" />](https://www.coursera.org/user/5331a36f88fb6ebc545872905561db74)
 
-
-### Stats
-
-[![](https://github-readme-stats.vercel.app/api?username=mattwang44&count_private=true&show_icons=true)]((https://github.com/anuraghazra/github-readme-stats))
+</details>
