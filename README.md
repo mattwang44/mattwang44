@@ -1,6 +1,6 @@
 ## Hi, I'm 王威翔 Wei-Hsiang (Matt) Wang
 
-[![Github page](https://img.shields.io/badge/-Website-ff4088?style=flat&logo=hugo&logoColor=white)](https://mattwang44.dev)
+[![Github page](https://img.shields.io/badge/-Blog-ff4088?style=flat&logo=hugo&logoColor=white)](https://mattwang44.dev)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wei-hsiang-wang-60841b108/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100000194291071)
 [![X](https://img.shields.io/badge/-X-000000?style=flat&logo=X&logoColor=white)](https://twitter.com/mattwang44)
@@ -8,9 +8,9 @@
 <!-- [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-fe7a16?style=flat&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/7969188) -->
 
 
-- 🚢 Backend engineer [@GoFreight](https://www.gofreight.com/) 
+- 🚢 Software engineer [@GoFreight](https://www.gofreight.com/) 
 - 🐍 Coordinator/translator [@PyDoc Translation (zh_TW)](https://github.com/python/python-docs-zh-tw)
-- 👨🏻‍💻 Web developer [@PyCon TW](https://tw.pycon.org/)
+- 👨🏻‍💻 Web dev [@PyCon TW](https://tw.pycon.org/)
 - <details><summary>🏃 Skill set</summary>
 
   #### Languages & Frameworks
