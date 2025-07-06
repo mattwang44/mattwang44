@@ -1,4 +1,4 @@
-## Hi, I'm 王威翔 Wei-Hsiang (Matt) Wang
+## Hi, I'm Matt
 
 [![Github page](https://img.shields.io/badge/-Blog-ff4088?style=flat&logo=hugo&logoColor=white)](https://mattwang44.dev)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wei-hsiang-wang-60841b108/)
