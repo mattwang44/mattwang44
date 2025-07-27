@@ -55,9 +55,10 @@
 
   </details>
 
-- <details><summary>:zap: Recent GitHub Activity</summary>
+---
+<details><summary>:zap: Recent GitHub Activity</summary>
 
-  <!--START_SECTION:activity-->
+<!--START_SECTION:activity-->
 1. 🗣 Commented on [#1128](https://github.com/python/python-docs-zh-tw/pull/1128#issuecomment-3111763475) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 2. 🔒 Closed issue [#1124](https://github.com/python/python-docs-zh-tw/issues/1124) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 3. 🎉 Merged PR [#1126](https://github.com/python/python-docs-zh-tw/pull/1126) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
@@ -69,6 +70,5 @@
 9. 🗣 Commented on [#1126](https://github.com/python/python-docs-zh-tw/pull/1126#issuecomment-3087756495) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 10. 🎉 Merged PR [#1118](https://github.com/python/python-docs-zh-tw/pull/1118) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 <!--END_SECTION:activity-->
-  1. 🗣 Commented on [#1128](https://github.com/python/python-docs-zh-tw/pull/1128#issuecomment-3111763475) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 
   </details>
