@@ -59,16 +59,16 @@
 <details><summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1258](https://github.com/pycontw/pycon.tw/pull/1258#issuecomment-3194316006) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
-2. 🗣 Commented on [#535](https://github.com/adamchainz/time-machine/pull/535#issuecomment-3168802448) in [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
-3. 💪 Opened PR [#535](https://github.com/adamchainz/time-machine/pull/535) in [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
-4. 🎉 Merged PR [#1119](https://github.com/python/python-docs-zh-tw/pull/1119) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-5. 🗣 Commented on [#530](https://github.com/model-bakers/model_bakery/pull/530#issuecomment-3133458996) in [model-bakers/model_bakery](https://github.com/model-bakers/model_bakery)
-6. 💪 Opened PR [#530](https://github.com/model-bakers/model_bakery/pull/530) in [model-bakers/model_bakery](https://github.com/model-bakers/model_bakery)
-7. ❌ Closed PR [#2](https://github.com/mattwang44/model_bakery/pull/2) in [mattwang44/model_bakery](https://github.com/mattwang44/model_bakery)
-8. 💪 Opened PR [#2](https://github.com/mattwang44/model_bakery/pull/2) in [mattwang44/model_bakery](https://github.com/mattwang44/model_bakery)
-9. 🔒 Closed issue [#1129](https://github.com/python/python-docs-zh-tw/issues/1129) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-10. 🎉 Merged PR [#1130](https://github.com/python/python-docs-zh-tw/pull/1130) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+1. 🔒 Closed issue [#1136](https://github.com/python/python-docs-zh-tw/issues/1136) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+2. 🎉 Merged PR [#1138](https://github.com/python/python-docs-zh-tw/pull/1138) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+3. 🗣 Commented on [#1258](https://github.com/pycontw/pycon.tw/pull/1258#issuecomment-3194316006) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
+4. 🗣 Commented on [#535](https://github.com/adamchainz/time-machine/pull/535#issuecomment-3168802448) in [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
+5. 💪 Opened PR [#535](https://github.com/adamchainz/time-machine/pull/535) in [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
+6. 🎉 Merged PR [#1119](https://github.com/python/python-docs-zh-tw/pull/1119) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+7. 🗣 Commented on [#530](https://github.com/model-bakers/model_bakery/pull/530#issuecomment-3133458996) in [model-bakers/model_bakery](https://github.com/model-bakers/model_bakery)
+8. 💪 Opened PR [#530](https://github.com/model-bakers/model_bakery/pull/530) in [model-bakers/model_bakery](https://github.com/model-bakers/model_bakery)
+9. ❌ Closed PR [#2](https://github.com/mattwang44/model_bakery/pull/2) in [mattwang44/model_bakery](https://github.com/mattwang44/model_bakery)
+10. 💪 Opened PR [#2](https://github.com/mattwang44/model_bakery/pull/2) in [mattwang44/model_bakery](https://github.com/mattwang44/model_bakery)
 <!--END_SECTION:activity-->
 
   </details>
