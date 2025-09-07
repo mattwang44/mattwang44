@@ -59,15 +59,15 @@
 <details><summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#414](https://github.com/hackmdio/hackmd-io-issues/issues/414) in [hackmdio/hackmd-io-issues](https://github.com/hackmdio/hackmd-io-issues)
-2. 🎉 Merged PR [#1141](https://github.com/python/python-docs-zh-tw/pull/1141) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-3. 🗣 Commented on [#1139](https://github.com/python/python-docs-zh-tw/pull/1139#issuecomment-3241681557) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-4. 🎉 Merged PR [#1133](https://github.com/python/python-docs-zh-tw/pull/1133) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-5. 🔒 Closed issue [#1136](https://github.com/python/python-docs-zh-tw/issues/1136) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-6. 🎉 Merged PR [#1138](https://github.com/python/python-docs-zh-tw/pull/1138) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-7. 🗣 Commented on [#1258](https://github.com/pycontw/pycon.tw/pull/1258#issuecomment-3194316006) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
-8. 🗣 Commented on [#535](https://github.com/adamchainz/time-machine/pull/535#issuecomment-3168802448) in [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
-9. 💪 Opened PR [#535](https://github.com/adamchainz/time-machine/pull/535) in [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
+1. 🎉 Merged PR [#1142](https://github.com/python/python-docs-zh-tw/pull/1142) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+2. ❗ Opened issue [#414](https://github.com/hackmdio/hackmd-io-issues/issues/414) in [hackmdio/hackmd-io-issues](https://github.com/hackmdio/hackmd-io-issues)
+3. 🎉 Merged PR [#1141](https://github.com/python/python-docs-zh-tw/pull/1141) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+4. 🗣 Commented on [#1139](https://github.com/python/python-docs-zh-tw/pull/1139#issuecomment-3241681557) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+5. 🎉 Merged PR [#1133](https://github.com/python/python-docs-zh-tw/pull/1133) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+6. 🔒 Closed issue [#1136](https://github.com/python/python-docs-zh-tw/issues/1136) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+7. 🎉 Merged PR [#1138](https://github.com/python/python-docs-zh-tw/pull/1138) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+8. 🗣 Commented on [#1258](https://github.com/pycontw/pycon.tw/pull/1258#issuecomment-3194316006) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
+9. 🗣 Commented on [#535](https://github.com/adamchainz/time-machine/pull/535#issuecomment-3168802448) in [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
 10. ❌ Closed PR [#2](https://github.com/mattwang44/model_bakery/pull/2) in [mattwang44/model_bakery](https://github.com/mattwang44/model_bakery)
 <!--END_SECTION:activity-->
 
