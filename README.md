@@ -59,16 +59,16 @@
 <details><summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#26](https://github.com/mattwang44/python-docs-zh-tw/pull/26) in [mattwang44/python-docs-zh-tw](https://github.com/mattwang44/python-docs-zh-tw)
-2. 🎉 Merged PR [#1260](https://github.com/pycontw/pycon.tw/pull/1260) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
-3. 🗣 Commented on [#138526](https://github.com/python/cpython/pull/138526#issuecomment-3263423166) in [python/cpython](https://github.com/python/cpython)
-4. 🎉 Merged PR [#1142](https://github.com/python/python-docs-zh-tw/pull/1142) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-5. ❗ Opened issue [#414](https://github.com/hackmdio/hackmd-io-issues/issues/414) in [hackmdio/hackmd-io-issues](https://github.com/hackmdio/hackmd-io-issues)
-6. 🎉 Merged PR [#1141](https://github.com/python/python-docs-zh-tw/pull/1141) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-7. 🗣 Commented on [#1139](https://github.com/python/python-docs-zh-tw/pull/1139#issuecomment-3241681557) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-8. 🎉 Merged PR [#1133](https://github.com/python/python-docs-zh-tw/pull/1133) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-9. 🔒 Closed issue [#1136](https://github.com/python/python-docs-zh-tw/issues/1136) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-10. 🎉 Merged PR [#1138](https://github.com/python/python-docs-zh-tw/pull/1138) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+1. 🗣 Commented on [#530](https://github.com/model-bakers/model_bakery/pull/530#issuecomment-3305313585) in [model-bakers/model_bakery](https://github.com/model-bakers/model_bakery)
+2. 💪 Opened PR [#26](https://github.com/mattwang44/python-docs-zh-tw/pull/26) in [mattwang44/python-docs-zh-tw](https://github.com/mattwang44/python-docs-zh-tw)
+3. 🎉 Merged PR [#1260](https://github.com/pycontw/pycon.tw/pull/1260) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
+4. 🗣 Commented on [#138526](https://github.com/python/cpython/pull/138526#issuecomment-3263423166) in [python/cpython](https://github.com/python/cpython)
+5. 🎉 Merged PR [#1142](https://github.com/python/python-docs-zh-tw/pull/1142) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+6. ❗ Opened issue [#414](https://github.com/hackmdio/hackmd-io-issues/issues/414) in [hackmdio/hackmd-io-issues](https://github.com/hackmdio/hackmd-io-issues)
+7. 🎉 Merged PR [#1141](https://github.com/python/python-docs-zh-tw/pull/1141) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+8. 🗣 Commented on [#1139](https://github.com/python/python-docs-zh-tw/pull/1139#issuecomment-3241681557) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+9. 🎉 Merged PR [#1133](https://github.com/python/python-docs-zh-tw/pull/1133) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+10. 🔒 Closed issue [#1136](https://github.com/python/python-docs-zh-tw/issues/1136) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 <!--END_SECTION:activity-->
 
   </details>
