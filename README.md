@@ -59,11 +59,11 @@
 <details><summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/hardcoretech/data-spec-validator/pull/45) in [hardcoretech/data-spec-validator](https://github.com/hardcoretech/data-spec-validator)
-2. 💪 Opened PR [#45](https://github.com/hardcoretech/data-spec-validator/pull/45) in [hardcoretech/data-spec-validator](https://github.com/hardcoretech/data-spec-validator)
-3. 🗣 Commented on [#530](https://github.com/model-bakers/model_bakery/pull/530#issuecomment-3305313585) in [model-bakers/model_bakery](https://github.com/model-bakers/model_bakery)
-4. 💪 Opened PR [#26](https://github.com/mattwang44/python-docs-zh-tw/pull/26) in [mattwang44/python-docs-zh-tw](https://github.com/mattwang44/python-docs-zh-tw)
-5. 🎉 Merged PR [#1260](https://github.com/pycontw/pycon.tw/pull/1260) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
+1. 🔒 Closed issue [#1150](https://github.com/python/python-docs-zh-tw/issues/1150) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+2. 💪 Opened PR [#45](undefined) in [hardcoretech/data-spec-validator](https://github.com/hardcoretech/data-spec-validator)
+3. ❌ Closed PR [#25](undefined) in [mattwang44/python-docs-zh-tw](https://github.com/mattwang44/python-docs-zh-tw)
+4. 🗣 Commented on [#1147](https://github.com/python/python-docs-zh-tw/pull/1147#issuecomment-3306464932) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+5. 🗣 Commented on [#530](https://github.com/model-bakers/model_bakery/pull/530#issuecomment-3305313585) in [model-bakers/model_bakery](https://github.com/model-bakers/model_bakery)
 6. 🗣 Commented on [#138526](https://github.com/python/cpython/pull/138526#issuecomment-3263423166) in [python/cpython](https://github.com/python/cpython)
 7. 🎉 Merged PR [#1142](https://github.com/python/python-docs-zh-tw/pull/1142) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 8. ❗ Opened issue [#414](https://github.com/hackmdio/hackmd-io-issues/issues/414) in [hackmdio/hackmd-io-issues](https://github.com/hackmdio/hackmd-io-issues)
