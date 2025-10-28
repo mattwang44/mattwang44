@@ -59,14 +59,14 @@
 <details><summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1151](https://github.com/python/python-docs-zh-tw/issues/1151) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-2. 💪 Opened PR [#717](undefined) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
-3. 🔒 Closed issue [#1150](https://github.com/python/python-docs-zh-tw/issues/1150) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-4. 🗣 Commented on [#1147](https://github.com/python/python-docs-zh-tw/pull/1147#issuecomment-3306464932) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-5. 🗣 Commented on [#530](https://github.com/model-bakers/model_bakery/pull/530#issuecomment-3305313585) in [model-bakers/model_bakery](https://github.com/model-bakers/model_bakery)
-6. 🗣 Commented on [#138526](https://github.com/python/cpython/pull/138526#issuecomment-3263423166) in [python/cpython](https://github.com/python/cpython)
-7. 🎉 Merged PR [#1142](https://github.com/python/python-docs-zh-tw/pull/1142) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-8. ❗ Opened issue [#414](https://github.com/hackmdio/hackmd-io-issues/issues/414) in [hackmdio/hackmd-io-issues](https://github.com/hackmdio/hackmd-io-issues)
+1.  Assigned issue [#1154](https://github.com/python/python-docs-zh-tw/issues/1154) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+2. 🗣 Commented on [#1135](https://github.com/python/python-docs-zh-tw/pull/1135#issuecomment-3449312241) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+3. 🗣 Commented on [#1135](https://github.com/python/python-docs-zh-tw/pull/1135#issuecomment-3448621385) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+4. ❌ Assigned PR [#1135](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+5. ❌ Unassigned PR [#1135](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+6. 🔒 Closed issue [#1151](https://github.com/python/python-docs-zh-tw/issues/1151) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+7. 💪 Opened PR [#717](undefined) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+8. 🔒 Closed issue [#1150](https://github.com/python/python-docs-zh-tw/issues/1150) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 9. 🎉 Merged PR [#1141](https://github.com/python/python-docs-zh-tw/pull/1141) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 10. 🗣 Commented on [#1139](https://github.com/python/python-docs-zh-tw/pull/1139#issuecomment-3241681557) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 <!--END_SECTION:activity-->
