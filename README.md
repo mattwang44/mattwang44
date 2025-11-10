@@ -59,16 +59,16 @@
 <details><summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Assigned PR [#1147](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-2. 🔒 Closed issue [#958](https://github.com/python/python-docs-zh-tw/issues/958) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-3. 🗣 Commented on [#1147](https://github.com/python/python-docs-zh-tw/pull/1147#issuecomment-3501060882) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-4. 💪 Opened PR [#1157](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-5.  Assigned issue [#958](https://github.com/python/python-docs-zh-tw/issues/958) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-6.  Unassigned issue [#958](https://github.com/python/python-docs-zh-tw/issues/958) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-7. 💪 Opened PR [#141179](undefined) in [python/cpython](https://github.com/python/cpython)
-8. ❌ Closed PR [#1](undefined) in [mattwang44/cpython](https://github.com/mattwang44/cpython)
-9. ❌ Reopened PR [#1](undefined) in [mattwang44/cpython](https://github.com/mattwang44/cpython)
-10. ❌ Closed PR [#1](undefined) in [mattwang44/cpython](https://github.com/mattwang44/cpython)
+1. 🔒 Closed issue [#194](https://github.com/python/python-docs-zh-tw/issues/194) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+2. 💪 Opened PR [#1161](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+3. 🔒 Closed issue [#1055](https://github.com/python/python-docs-zh-tw/issues/1055) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+4.  Unassigned issue [#654](https://github.com/python/python-docs-zh-tw/issues/654) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+5.  Unassigned issue [#783](https://github.com/python/python-docs-zh-tw/issues/783) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+6.  Unassigned issue [#970](https://github.com/python/python-docs-zh-tw/issues/970) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+7.  Unassigned issue [#946](https://github.com/python/python-docs-zh-tw/issues/946) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+8.  Unassigned issue [#159](https://github.com/python/python-docs-zh-tw/issues/159) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+9.  Unassigned issue [#126](https://github.com/python/python-docs-zh-tw/issues/126) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+10. ❌ Assigned PR [#1147](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 <!--END_SECTION:activity-->
 
   </details>
