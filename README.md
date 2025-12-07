@@ -59,16 +59,16 @@
 <details><summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#153](https://github.com/sphinx-contrib/sphinx-lint/issues/153#issuecomment-3605040481) in [sphinx-contrib/sphinx-lint](https://github.com/sphinx-contrib/sphinx-lint)
-2. 💪 Opened PR [#14144](undefined) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
-3.  Labeled issue [#14143](https://github.com/sphinx-doc/sphinx/issues/14143) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
-4. ❗ Opened issue [#14143](https://github.com/sphinx-doc/sphinx/issues/14143) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
-5. 🗣 Commented on [#1176](https://github.com/python/python-docs-zh-tw/pull/1176#issuecomment-3578798310) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-6. 🗣 Commented on [#992](https://github.com/python/python-docs-zh-tw/pull/992#issuecomment-3559478766) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-7.  Assigned issue [#1173](https://github.com/python/python-docs-zh-tw/issues/1173) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-8. ❌ Merged PR [#535](undefined) in [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
-9. 🔒 Closed issue [#1134](https://github.com/python/python-docs-zh-tw/issues/1134) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-10. ❌ Merged PR [#1170](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+1. 🗣 Commented on [#14143](https://github.com/sphinx-doc/sphinx/issues/14143#issuecomment-3612822990) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
+2. ❌ Merged PR [#14144](undefined) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
+3. 🗣 Commented on [#14147](https://github.com/sphinx-doc/sphinx/issues/14147#issuecomment-3609972985) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
+4. 🗣 Commented on [#153](https://github.com/sphinx-contrib/sphinx-lint/issues/153#issuecomment-3605040481) in [sphinx-contrib/sphinx-lint](https://github.com/sphinx-contrib/sphinx-lint)
+5. 💪 Opened PR [#14144](undefined) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
+6.  Labeled issue [#14143](https://github.com/sphinx-doc/sphinx/issues/14143) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
+7. ❗ Opened issue [#14143](https://github.com/sphinx-doc/sphinx/issues/14143) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
+8. 🗣 Commented on [#1176](https://github.com/python/python-docs-zh-tw/pull/1176#issuecomment-3578798310) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+9. 🗣 Commented on [#992](https://github.com/python/python-docs-zh-tw/pull/992#issuecomment-3559478766) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+10.  Assigned issue [#1173](https://github.com/python/python-docs-zh-tw/issues/1173) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 <!--END_SECTION:activity-->
 
   </details>
