@@ -59,16 +59,16 @@
 <details><summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#142714](https://github.com/python/cpython/issues/142714#issuecomment-3651771898) in [python/cpython](https://github.com/python/cpython)
-2.  Labeled issue [#142714](https://github.com/python/cpython/issues/142714) in [python/cpython](https://github.com/python/cpython)
-3. ❗ Opened issue [#142714](https://github.com/python/cpython/issues/142714) in [python/cpython](https://github.com/python/cpython)
-4. 💪 Opened PR [#927](undefined) in [python-pendulum/pendulum](https://github.com/python-pendulum/pendulum)
-5. 💪 Opened PR [#1044](undefined) in [ansible-collections/kubernetes.core](https://github.com/ansible-collections/kubernetes.core)
-6. ❗ Opened issue [#1042](https://github.com/ansible-collections/kubernetes.core/issues/1042) in [ansible-collections/kubernetes.core](https://github.com/ansible-collections/kubernetes.core)
-7.  Labeled issue [#14162](https://github.com/sphinx-doc/sphinx/issues/14162) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
-8. ❗ Opened issue [#14162](https://github.com/sphinx-doc/sphinx/issues/14162) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
-9. ❌ Merged PR [#1182](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-10. 💪 Opened PR [#1182](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+1. 🗣 Commented on [#1168](https://github.com/python/python-docs-zh-tw/issues/1168#issuecomment-3669473972) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+2. 🔒 Closed issue [#1168](https://github.com/python/python-docs-zh-tw/issues/1168) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+3. 🗣 Commented on [#14162](https://github.com/sphinx-doc/sphinx/issues/14162#issuecomment-3668222474) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
+4. 🔒 Closed issue [#1173](https://github.com/python/python-docs-zh-tw/issues/1173) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+5. 🗣 Commented on [#1173](https://github.com/python/python-docs-zh-tw/issues/1173#issuecomment-3666299109) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+6. 🗣 Commented on [#142714](https://github.com/python/cpython/issues/142714#issuecomment-3651771898) in [python/cpython](https://github.com/python/cpython)
+7.  Labeled issue [#142714](https://github.com/python/cpython/issues/142714) in [python/cpython](https://github.com/python/cpython)
+8. ❗ Opened issue [#142714](https://github.com/python/cpython/issues/142714) in [python/cpython](https://github.com/python/cpython)
+9. 💪 Opened PR [#927](undefined) in [python-pendulum/pendulum](https://github.com/python-pendulum/pendulum)
+10. 💪 Opened PR [#1044](undefined) in [ansible-collections/kubernetes.core](https://github.com/ansible-collections/kubernetes.core)
 <!--END_SECTION:activity-->
 
   </details>
