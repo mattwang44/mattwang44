@@ -59,16 +59,16 @@
 <details><summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#930](undefined) in [python-pendulum/pendulum](https://github.com/python-pendulum/pendulum)
-2. 🗣 Commented on [#1044](https://github.com/ansible-collections/kubernetes.core/pull/1044#issuecomment-3722543687) in [ansible-collections/kubernetes.core](https://github.com/ansible-collections/kubernetes.core)
-3. 🗣 Commented on [#558](https://github.com/model-bakers/model_bakery/pull/558#issuecomment-3704360113) in [model-bakers/model_bakery](https://github.com/model-bakers/model_bakery)
-4. 🗣 Commented on [#558](https://github.com/model-bakers/model_bakery/pull/558#issuecomment-3701152301) in [model-bakers/model_bakery](https://github.com/model-bakers/model_bakery)
-5. 🗣 Commented on [#548](https://github.com/model-bakers/model_bakery/pull/548#issuecomment-3698167358) in [model-bakers/model_bakery](https://github.com/model-bakers/model_bakery)
-6. 🔒 Closed issue [#1167](https://github.com/python/python-docs-zh-tw/issues/1167) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-7. 🗣 Commented on [#1167](https://github.com/python/python-docs-zh-tw/issues/1167#issuecomment-3693079752) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-8. 🗣 Commented on [#1183](https://github.com/python/python-docs-zh-tw/pull/1183#issuecomment-3688972341) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-9. 🗣 Commented on [#14550](https://github.com/fastapi/fastapi/pull/14550#issuecomment-3673431666) in [fastapi/fastapi](https://github.com/fastapi/fastapi)
-10. 🗣 Commented on [#1168](https://github.com/python/python-docs-zh-tw/issues/1168#issuecomment-3669473972) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+1.  Assigned issue [#126](https://github.com/python/python-docs-zh-tw/issues/126) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+2. ❌ Merged PR [#1196](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+3. 💪 Opened PR [#1196](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+4. 🔒 Closed issue [#783](https://github.com/python/python-docs-zh-tw/issues/783) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+5. ❌ Merged PR [#1194](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+6. 💪 Opened PR [#1194](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+7.  Assigned issue [#783](https://github.com/python/python-docs-zh-tw/issues/783) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+8. ❌ Closed PR [#1192](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+9. 🔒 Closed issue [#1177](https://github.com/python/python-docs-zh-tw/issues/1177) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+10. 🗣 Commented on [#1177](https://github.com/python/python-docs-zh-tw/issues/1177#issuecomment-3785480381) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 <!--END_SECTION:activity-->
 
   </details>
