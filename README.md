@@ -59,16 +59,16 @@
 <details><summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1.  Assigned issue [#126](https://github.com/python/python-docs-zh-tw/issues/126) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-2. ❌ Merged PR [#1196](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-3. 💪 Opened PR [#1196](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-4. 🔒 Closed issue [#783](https://github.com/python/python-docs-zh-tw/issues/783) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-5. ❌ Merged PR [#1194](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-6. 💪 Opened PR [#1194](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-7.  Assigned issue [#783](https://github.com/python/python-docs-zh-tw/issues/783) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-8. ❌ Closed PR [#1192](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-9. 🔒 Closed issue [#1177](https://github.com/python/python-docs-zh-tw/issues/1177) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-10. 🗣 Commented on [#1177](https://github.com/python/python-docs-zh-tw/issues/1177#issuecomment-3785480381) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+1. 🗣 Commented on [#930](https://github.com/python-pendulum/pendulum/pull/930#issuecomment-3834395749) in [python-pendulum/pendulum](https://github.com/python-pendulum/pendulum)
+2. 🔒 Closed issue [#126](https://github.com/python/python-docs-zh-tw/issues/126) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+3. 🗣 Commented on [#126](https://github.com/python/python-docs-zh-tw/issues/126#issuecomment-3832128454) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+4. ❌ Merged PR [#1207](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+5. 💪 Opened PR [#1207](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+6. 🔒 Closed issue [#981](https://github.com/python/python-docs-zh-tw/issues/981) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+7.  Assigned issue [#126](https://github.com/python/python-docs-zh-tw/issues/126) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+8. ❌ Merged PR [#1196](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+9. 💪 Opened PR [#1196](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+10. 🔒 Closed issue [#783](https://github.com/python/python-docs-zh-tw/issues/783) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 <!--END_SECTION:activity-->
 
   </details>
