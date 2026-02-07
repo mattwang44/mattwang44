@@ -59,16 +59,16 @@
 <details><summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#930](https://github.com/python-pendulum/pendulum/pull/930#issuecomment-3834395749) in [python-pendulum/pendulum](https://github.com/python-pendulum/pendulum)
-2. 🔒 Closed issue [#126](https://github.com/python/python-docs-zh-tw/issues/126) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-3. 🗣 Commented on [#126](https://github.com/python/python-docs-zh-tw/issues/126#issuecomment-3832128454) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-4. ❌ Merged PR [#1207](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-5. 💪 Opened PR [#1207](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-6. 🔒 Closed issue [#981](https://github.com/python/python-docs-zh-tw/issues/981) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-7.  Assigned issue [#126](https://github.com/python/python-docs-zh-tw/issues/126) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-8. ❌ Merged PR [#1196](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-9. 💪 Opened PR [#1196](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-10. 🔒 Closed issue [#783](https://github.com/python/python-docs-zh-tw/issues/783) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+1. ❌ Merged PR [#930](undefined) in [python-pendulum/pendulum](https://github.com/python-pendulum/pendulum)
+2. 🗣 Commented on [#930](https://github.com/python-pendulum/pendulum/pull/930#issuecomment-3855034239) in [python-pendulum/pendulum](https://github.com/python-pendulum/pendulum)
+3. 🗣 Commented on [#14691](https://github.com/fastapi/fastapi/pull/14691#issuecomment-3851194118) in [fastapi/fastapi](https://github.com/fastapi/fastapi)
+4. 🗣 Commented on [#930](https://github.com/python-pendulum/pendulum/pull/930#issuecomment-3834395749) in [python-pendulum/pendulum](https://github.com/python-pendulum/pendulum)
+5. 🔒 Closed issue [#126](https://github.com/python/python-docs-zh-tw/issues/126) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+6. 🗣 Commented on [#126](https://github.com/python/python-docs-zh-tw/issues/126#issuecomment-3832128454) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+7. ❌ Merged PR [#1207](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+8. 💪 Opened PR [#1207](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+9. 🔒 Closed issue [#981](https://github.com/python/python-docs-zh-tw/issues/981) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+10.  Assigned issue [#126](https://github.com/python/python-docs-zh-tw/issues/126) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 <!--END_SECTION:activity-->
 
   </details>
