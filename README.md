@@ -59,13 +59,13 @@
 <details><summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#341](undefined) in [seddonym/import-linter](https://github.com/seddonym/import-linter)
-2. 💪 Opened PR [#341](undefined) in [seddonym/import-linter](https://github.com/seddonym/import-linter)
-3.  Assigned issue [#1210](https://github.com/python/python-docs-zh-tw/issues/1210) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-4. ❌ Merged PR [#927](undefined) in [python-pendulum/pendulum](https://github.com/python-pendulum/pendulum)
-5. ❌ Merged PR [#930](undefined) in [python-pendulum/pendulum](https://github.com/python-pendulum/pendulum)
-6. 🗣 Commented on [#930](https://github.com/python-pendulum/pendulum/pull/930#issuecomment-3855034239) in [python-pendulum/pendulum](https://github.com/python-pendulum/pendulum)
-7. 🗣 Commented on [#14691](https://github.com/fastapi/fastapi/pull/14691#issuecomment-3851194118) in [fastapi/fastapi](https://github.com/fastapi/fastapi)
+1. 🗣 Commented on [#1132](https://github.com/python/python-docs-zh-tw/pull/1132#issuecomment-4058347887) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+2. ❌ Merged PR [#1215](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+3. 💪 Opened PR [#1215](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+4. ❌ Merged PR [#341](undefined) in [seddonym/import-linter](https://github.com/seddonym/import-linter)
+5. 💪 Opened PR [#341](undefined) in [seddonym/import-linter](https://github.com/seddonym/import-linter)
+6.  Assigned issue [#1210](https://github.com/python/python-docs-zh-tw/issues/1210) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+7. ❌ Merged PR [#927](undefined) in [python-pendulum/pendulum](https://github.com/python-pendulum/pendulum)
 8. 🔒 Closed issue [#126](https://github.com/python/python-docs-zh-tw/issues/126) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 9. 🗣 Commented on [#126](https://github.com/python/python-docs-zh-tw/issues/126#issuecomment-3832128454) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 10. ❌ Merged PR [#1207](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
