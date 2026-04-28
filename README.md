@@ -59,16 +59,16 @@
 <details><summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#451](undefined) in [ministackorg/ministack](https://github.com/ministackorg/ministack)
-2. 💪 Opened PR [#451](undefined) in [ministackorg/ministack](https://github.com/ministackorg/ministack)
-3. ❌ Merged PR [#1225](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-4. 💪 Opened PR [#1225](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-5. 🗣 Commented on [#488](https://github.com/python/python-docs-zh-tw/issues/488#issuecomment-4229726694) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-6. 🔒 Closed issue [#488](https://github.com/python/python-docs-zh-tw/issues/488) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-7. ❌ Merged PR [#514](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-8. 🔒 Closed issue [#1004](https://github.com/python/python-docs-zh-tw/issues/1004) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-9. ❌ Merged PR [#1223](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-10. 💪 Opened PR [#1223](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+1. ❌ Merged PR [#488](undefined) in [ministackorg/ministack](https://github.com/ministackorg/ministack)
+2. 🗣 Commented on [#477](https://github.com/ministackorg/ministack/pull/477#issuecomment-4324016115) in [ministackorg/ministack](https://github.com/ministackorg/ministack)
+3. ❌ Closed PR [#477](undefined) in [ministackorg/ministack](https://github.com/ministackorg/ministack)
+4. 💪 Opened PR [#488](undefined) in [ministackorg/ministack](https://github.com/ministackorg/ministack)
+5. ❌ Merged PR [#472](undefined) in [ministackorg/ministack](https://github.com/ministackorg/ministack)
+6. 💪 Opened PR [#477](undefined) in [ministackorg/ministack](https://github.com/ministackorg/ministack)
+7. ❌ Merged PR [#1227](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+8. 💪 Opened PR [#1227](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+9. 🗣 Commented on [#472](https://github.com/ministackorg/ministack/pull/472#issuecomment-4320299527) in [ministackorg/ministack](https://github.com/ministackorg/ministack)
+10. 🗣 Commented on [#472](https://github.com/ministackorg/ministack/pull/472#issuecomment-4320201536) in [ministackorg/ministack](https://github.com/ministackorg/ministack)
 <!--END_SECTION:activity-->
 
   </details>
