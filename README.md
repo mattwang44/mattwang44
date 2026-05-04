@@ -59,16 +59,16 @@
 <details><summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#149159](undefined) in [python/cpython](https://github.com/python/cpython)
-2. ❌ Merged PR [#488](undefined) in [ministackorg/ministack](https://github.com/ministackorg/ministack)
-3. 🗣 Commented on [#477](https://github.com/ministackorg/ministack/pull/477#issuecomment-4324016115) in [ministackorg/ministack](https://github.com/ministackorg/ministack)
-4. ❌ Closed PR [#477](undefined) in [ministackorg/ministack](https://github.com/ministackorg/ministack)
-5. 💪 Opened PR [#488](undefined) in [ministackorg/ministack](https://github.com/ministackorg/ministack)
-6. ❌ Merged PR [#472](undefined) in [ministackorg/ministack](https://github.com/ministackorg/ministack)
-7. 💪 Opened PR [#477](undefined) in [ministackorg/ministack](https://github.com/ministackorg/ministack)
-8. ❌ Merged PR [#1227](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-9. 💪 Opened PR [#1227](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-10. 🗣 Commented on [#472](https://github.com/ministackorg/ministack/pull/472#issuecomment-4320299527) in [ministackorg/ministack](https://github.com/ministackorg/ministack)
+1. ❌ Merged PR [#149159](undefined) in [python/cpython](https://github.com/python/cpython)
+2. 💪 Opened PR [#149159](undefined) in [python/cpython](https://github.com/python/cpython)
+3. ❌ Merged PR [#488](undefined) in [ministackorg/ministack](https://github.com/ministackorg/ministack)
+4. 🗣 Commented on [#477](https://github.com/ministackorg/ministack/pull/477#issuecomment-4324016115) in [ministackorg/ministack](https://github.com/ministackorg/ministack)
+5. ❌ Closed PR [#477](undefined) in [ministackorg/ministack](https://github.com/ministackorg/ministack)
+6. 💪 Opened PR [#488](undefined) in [ministackorg/ministack](https://github.com/ministackorg/ministack)
+7. ❌ Merged PR [#472](undefined) in [ministackorg/ministack](https://github.com/ministackorg/ministack)
+8. 💪 Opened PR [#477](undefined) in [ministackorg/ministack](https://github.com/ministackorg/ministack)
+9. ❌ Merged PR [#1227](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+10. 💪 Opened PR [#1227](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 <!--END_SECTION:activity-->
 
   </details>
