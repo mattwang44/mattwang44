@@ -59,12 +59,12 @@
 <details><summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1244](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-2.  Assigned issue [#1241](https://github.com/python/python-docs-zh-tw/issues/1241) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-3. ❌ Closed PR [#1](undefined) in [mattwang44/sphinx](https://github.com/mattwang44/sphinx)
-4. 💪 Opened PR [#9150](undefined) in [kubernetes/community](https://github.com/kubernetes/community)
-5. 🗣 Commented on [#2](https://github.com/mattwang44/skillet/pull/2#issuecomment-5407590746) in [mattwang44/skillet](https://github.com/mattwang44/skillet)
-6. ❌ Merged PR [#1](undefined) in [mattwang44/skillet](https://github.com/mattwang44/skillet)
+1. ❌ Merged PR [#1244](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+2. 🔒 Closed issue [#1241](https://github.com/python/python-docs-zh-tw/issues/1241) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+3. 💪 Opened PR [#1244](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+4.  Assigned issue [#1241](https://github.com/python/python-docs-zh-tw/issues/1241) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+5. ❌ Closed PR [#1](undefined) in [mattwang44/sphinx](https://github.com/mattwang44/sphinx)
+6. 💪 Opened PR [#9150](undefined) in [kubernetes/community](https://github.com/kubernetes/community)
 7. 💪 Opened PR [#2](undefined) in [mattwang44/skillet](https://github.com/mattwang44/skillet)
 8. 💪 Opened PR [#1](undefined) in [mattwang44/skillet](https://github.com/mattwang44/skillet)
 9. 🔒 Closed issue [#414](https://github.com/hackmdio/hackmd-io-issues/issues/414) in [hackmdio/hackmd-io-issues](https://github.com/hackmdio/hackmd-io-issues)
