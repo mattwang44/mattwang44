@@ -59,14 +59,14 @@
 <details><summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#1244](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-2. 🔒 Closed issue [#1241](https://github.com/python/python-docs-zh-tw/issues/1241) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-3. 💪 Opened PR [#1244](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-4.  Assigned issue [#1241](https://github.com/python/python-docs-zh-tw/issues/1241) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-5. ❌ Closed PR [#1](undefined) in [mattwang44/sphinx](https://github.com/mattwang44/sphinx)
-6. 💪 Opened PR [#9150](undefined) in [kubernetes/community](https://github.com/kubernetes/community)
-7. 💪 Opened PR [#2](undefined) in [mattwang44/skillet](https://github.com/mattwang44/skillet)
-8. 💪 Opened PR [#1](undefined) in [mattwang44/skillet](https://github.com/mattwang44/skillet)
+1. ❌ Merged PR [#9150](undefined) in [kubernetes/community](https://github.com/kubernetes/community)
+2. 🗣 Commented on [#9150](https://github.com/kubernetes/community/pull/9150#issuecomment-5981189008) in [kubernetes/community](https://github.com/kubernetes/community)
+3. ❌ Merged PR [#1244](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+4. 🔒 Closed issue [#1241](https://github.com/python/python-docs-zh-tw/issues/1241) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+5. 💪 Opened PR [#1244](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+6.  Assigned issue [#1241](https://github.com/python/python-docs-zh-tw/issues/1241) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+7. ❌ Closed PR [#1](undefined) in [mattwang44/sphinx](https://github.com/mattwang44/sphinx)
+8. 💪 Opened PR [#9150](undefined) in [kubernetes/community](https://github.com/kubernetes/community)
 9. 🔒 Closed issue [#414](https://github.com/hackmdio/hackmd-io-issues/issues/414) in [hackmdio/hackmd-io-issues](https://github.com/hackmdio/hackmd-io-issues)
 10. 🗣 Commented on [#1143](https://github.com/pypa/packaging-problems/issues/1143#issuecomment-5339447735) in [pypa/packaging-problems](https://github.com/pypa/packaging-problems)
 <!--END_SECTION:activity-->
