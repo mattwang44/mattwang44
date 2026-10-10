@@ -59,16 +59,16 @@
 <details><summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#9150](undefined) in [kubernetes/community](https://github.com/kubernetes/community)
-2. 🗣 Commented on [#9150](https://github.com/kubernetes/community/pull/9150#issuecomment-5981189008) in [kubernetes/community](https://github.com/kubernetes/community)
-3. ❌ Merged PR [#1244](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-4. 🔒 Closed issue [#1241](https://github.com/python/python-docs-zh-tw/issues/1241) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-5. 💪 Opened PR [#1244](undefined) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-6.  Assigned issue [#1241](https://github.com/python/python-docs-zh-tw/issues/1241) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-7. ❌ Closed PR [#1](undefined) in [mattwang44/sphinx](https://github.com/mattwang44/sphinx)
-8. 💪 Opened PR [#9150](undefined) in [kubernetes/community](https://github.com/kubernetes/community)
-9. 🔒 Closed issue [#414](https://github.com/hackmdio/hackmd-io-issues/issues/414) in [hackmdio/hackmd-io-issues](https://github.com/hackmdio/hackmd-io-issues)
-10. 🗣 Commented on [#1143](https://github.com/pypa/packaging-problems/issues/1143#issuecomment-5339447735) in [pypa/packaging-problems](https://github.com/pypa/packaging-problems)
+1. ❗ Opened issue [#25](https://github.com/hardcoretech/missing/issues/25) in [hardcoretech/missing](https://github.com/hardcoretech/missing)
+2. 🔒 Closed issue [#11](https://github.com/hardcoretech/missing/issues/11) in [hardcoretech/missing](https://github.com/hardcoretech/missing)
+3. ❌ Closed PR [#13](undefined) in [hardcoretech/missing](https://github.com/hardcoretech/missing)
+4. ❌ Closed PR [#17](undefined) in [hardcoretech/missing](https://github.com/hardcoretech/missing)
+5. ❌ Closed PR [#18](undefined) in [hardcoretech/missing](https://github.com/hardcoretech/missing)
+6. 🗣 Commented on [#1245](https://github.com/python/python-docs-zh-tw/issues/1245#issuecomment-6035162786) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+7. 🔒 Closed issue [#1245](https://github.com/python/python-docs-zh-tw/issues/1245) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+8.  Assigned issue [#1245](https://github.com/python/python-docs-zh-tw/issues/1245) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+9. 🗣 Commented on [#10399](https://github.com/kubernetes/autoscaler/issues/10399#issuecomment-6031980601) in [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler)
+10. ❌ Merged PR [#9150](undefined) in [kubernetes/community](https://github.com/kubernetes/community)
 <!--END_SECTION:activity-->
 
   </details>
