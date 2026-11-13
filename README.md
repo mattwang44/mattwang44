@@ -59,16 +59,16 @@
 <details><summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#75060](undefined) in [apache/airflow](https://github.com/apache/airflow)
-2. ❌ Merged PR [#75380](undefined) in [apache/airflow](https://github.com/apache/airflow)
-3. ❌ Merged PR [#75135](undefined) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#75380](undefined) in [apache/airflow](https://github.com/apache/airflow)
-5. 💪 Opened PR [#75379](undefined) in [apache/airflow](https://github.com/apache/airflow)
-6. 💪 Opened PR [#75378](undefined) in [apache/airflow](https://github.com/apache/airflow)
-7. ❌ Merged PR [#75071](undefined) in [apache/airflow](https://github.com/apache/airflow)
-8. ❌ Merged PR [#75294](undefined) in [apache/airflow](https://github.com/apache/airflow)
-9. 💪 Opened PR [#75294](undefined) in [apache/airflow](https://github.com/apache/airflow)
-10. ❌ Merged PR [#75064](undefined) in [apache/airflow](https://github.com/apache/airflow)
+1. 🔒 Closed issue [#1262](https://github.com/python/python-docs-zh-tw/issues/1262) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+2. 💪 Opened PR [#76881](undefined) in [apache/airflow](https://github.com/apache/airflow)
+3. ❌ Merged PR [#75060](undefined) in [apache/airflow](https://github.com/apache/airflow)
+4. ❌ Merged PR [#75380](undefined) in [apache/airflow](https://github.com/apache/airflow)
+5. ❌ Merged PR [#75135](undefined) in [apache/airflow](https://github.com/apache/airflow)
+6. 💪 Opened PR [#75380](undefined) in [apache/airflow](https://github.com/apache/airflow)
+7. 💪 Opened PR [#75379](undefined) in [apache/airflow](https://github.com/apache/airflow)
+8. 💪 Opened PR [#75378](undefined) in [apache/airflow](https://github.com/apache/airflow)
+9. ❌ Merged PR [#75071](undefined) in [apache/airflow](https://github.com/apache/airflow)
+10. ❌ Merged PR [#75294](undefined) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
   </details>
